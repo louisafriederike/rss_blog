@@ -1,0 +1,164 @@
+/* style.css */
+
+html {
+    scroll-behavior: smooth;
+    margin: 2em;
+}    
+
+
+@font-face {
+    font-family: Nail;
+    src: url(fonts/NailSalon-Regular.otf);
+}  
+
+body {
+    font-family: monospace;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding-top: 10 vh;
+    color: #333;
+  }
+  
+  header {
+    font-family: Nail;
+    padding: 20px;
+    text-align: left;
+    position: sticky;
+    text-align: center;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  header p {
+    font-style: italic;
+    font-size: 1.1em;
+  }
+  
+  article {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: rgb(192, 252, 255);
+    padding: 20px;
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  footer a:hover {
+    color: #007acc;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    padding: 10px 0;
+
+  }
+  
+  li a {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.2em;
+  
+  }
+  
+  li a:hover {
+    color: #007acc;
+  }
+  /* visited link */
+  a:visited {
+    color: blue;
+    text-decoration: overline;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: blue;
+    text-decoration: underline;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+    .formattedDate{
+        text-align: left;
+        padding: 10px;
+        color: blue;
+    }
+
+    #tags-section {
+        display: flex;
+        flex-wrap: wrap;  /* Makes the tags wrap to the next line if they overflow */
+        gap: 15px;  /* Space between the tag groups */
+        margin-bottom: 20px;  /* Optional: Add space below the tags section */
+      }
+
+  .tag-toggle { cursor: pointer; color: blue; margin: 0.5em 0; }
+  .tag-toggle:hover { text-decoration: underline; }
+  .tag-group { margin-bottom: 1em; display: inline-block; margin-left: 2em;}
+
+  /* Basic styles for the posts */
+.post {
+    margin-bottom: 40px;
+  }
+  
+  .post h2 {
+    margin-top: 0;
+  }
+  
+  .post a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .post-list {
+    margin-top: 40px;
+  }
+  
+  .post-list ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .post-list li {
+    margin-bottom: 10px;
+  }
+  
+  .post-list li a {
+    color: #007bff;
+  }
+  
+  .post-list li a:hover {
+    text-decoration: underline;
+  }
+
+  #menu {
+     position:sticky;
+     left: 0px;
+     top: 5px;
+  }
+  
+
+
+
+
+
+
+  
+    
