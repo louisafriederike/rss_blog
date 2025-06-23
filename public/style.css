@@ -14,15 +14,15 @@ html {
 body {
     font-family: monospace;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #141215;
     margin: 0;
     padding-top: 10 vh;
-    color: #333;
+    color: #9300d6;
   }
   
   header {
     font-family: Nail;
-    padding: 20px;
+    padding: 3em;
     text-align: left;
     position: sticky;
     text-align: center;
@@ -124,7 +124,8 @@ body {
   
   .post a {
     text-decoration: none;
-    color: #333;
+    font-size: 3em;
+    color: #00ffee;
   }
   
   .post-list {
