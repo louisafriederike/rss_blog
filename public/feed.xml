@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>.zip</title>
+    <title>My Blog</title>
     <link>https://yourdomain.com/</link>
-    <description>media-lab .zip</description>
+    <description>Blog about media art and alternative publishing</description>
     
     <item>
-      <title>A NEW EVENT</title>
-      <link>https://yourdomain.com/#a-new-event</link>
-      <description>UNHACKING the UDP</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://yourdomain.com/#a-new-event</guid>
+      <title>On Speeeeeedddddd and Signal</title>
+      <link>https://yourdomain.com/#on-speeeeeedddddd-and-signal</link>
+      <description>Exploring the rhythm of alternative publishing as a media artist.</description>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+      <guid>https://yourdomain.com/#on-speeeeeedddddd-and-signal</guid>
     </item>
     
 
     <item>
-      <title>Ghost Hardware</title>
-      <link>https://yourdomain.com/#ghost-hardware</link>
-      <description>UNHACKING the UDP</description>
-      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
-      <guid>https://yourdomain.com/#ghost-hardware</guid>
+      <title>On Slowness and Signal</title>
+      <link>https://yourdomain.com/#on-slowness-and-signal</link>
+      <description>Exploring the rhythm of alternative publishing as a media artist.</description>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <guid>https://yourdomain.com/#on-slowness-and-signal</guid>
     </item>
     
   </channel>
