@@ -14,7 +14,7 @@ html {
 body {
     font-family: monospace;
     line-height: 1.6;
-    background-color: #a612eb;
+    background-color: #e0e0dd;
     margin: 0;
     padding-top: 10 vh;
     color: #333;
@@ -40,7 +40,7 @@ body {
   article {
     max-width: 800px;
     margin: 20px auto;
-    background-color: rgb(192, 252, 255);
+    background-color: rgb(220, 230, 230);
     padding: 20px;
   }
   
@@ -70,8 +70,7 @@ body {
   }
   
   li a {
-    color: #333;
-    text-decoration: none;
+    color: #007acc;
     font-size: 1.2em;
   
   }
